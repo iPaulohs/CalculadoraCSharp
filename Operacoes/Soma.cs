@@ -18,10 +18,10 @@ public class Soma
     }
 
     public void sum(int a, int b){
-        Console.WriteLine($"A soma dos números é: {a + b}");
+        Console.WriteLine($"A soma dos números é: {a + b:N2}");
     }
 
     public void sum(double a, double b){
-        Console.WriteLine($"A soma dos números é: {a + b}");
+        Console.WriteLine($"A soma dos números é: {a + b:N2}");
     }
 }
