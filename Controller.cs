@@ -20,6 +20,19 @@ public class Controller
                     Soma soma = new Soma();
                     soma.questions();
                     break;
+                case 2:
+                    Subtracao subtracao = new Subtracao();
+                    subtracao.questions();
+                    break;
+                case 3: 
+                    Multiplicacao multiplicacao = new Multiplicacao();
+                    multiplicacao.questions();
+                    break;
+                case 4:
+                    Divisao divisao = new Divisao();
+                    divisao.questions();
+                    break;
+
             }
         }while(ativo);
 

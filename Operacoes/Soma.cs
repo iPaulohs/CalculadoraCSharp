@@ -1,18 +1,27 @@
 ﻿namespace CSProjects;
-
 public class Soma
 {
     public void questions()
     {
         Console.WriteLine("Digite o primeiro número");
-        double n1 = double.Parse(Console.ReadLine());
+        string n1 = Console.ReadLine();
         Console.WriteLine("Digite o segundo número: ");
-        double n2 = double.Parse(Console.ReadLine());
+        string n2 = Console.ReadLine();
 
-        sum(n1, n2);
+        if(int.TryParse(n1, out int intNum1) && int.TryParse(n2, out int intNum2)){
+            sum(intNum1, intNum2);
+        } 
+
+        if(double.TryParse(n1, out double doubleNum1) && double.TryParse(n2, out double doubleNum2)){
+            sum(doubleNum1, doubleNum2);
+        }
     }
-    private void sum(double a, double b)
-    {
-        Console.WriteLine($"O resultado da soma é: {a + b}");
+
+    public void sum(int a, int b){
+        Console.WriteLine($"A soma dos números é: {a + b}");
+    }
+
+    public void sum(double a, double b){
+        Console.WriteLine($"A soma dos números é: {a + b}");
     }
 }
