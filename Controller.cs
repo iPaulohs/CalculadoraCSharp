@@ -3,8 +3,6 @@ public class Controller
 {
     private bool ativo = true;
 
-    public Controller() { }
-
     public void questions()
     {
         Console.WriteLine("Escolha uma operação a ser realizada:\n1 - Adicao\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n5 - Sair");
