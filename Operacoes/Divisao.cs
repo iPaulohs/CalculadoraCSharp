@@ -4,13 +4,15 @@ public class Divisao : OperationModel
 {
     public Divisao(){}
 
-    public void operationInt(int a, int b)
+    public override void operationInt(int a, int b)
     {
-        Console.WriteLine($"a divisão dos números é {a / b} e o resto é {a % b}");
+        Console.WriteLine($"A divisão dos números é {a / b} e o resto é {a % b}");
+        Console.WriteLine("_______________________________________");
     }
     
-    public void operationDouble(double a, double b)
+    public override void operationDouble(double a, double b)
     {
-        Console.WriteLine($"a divisão dos números é {a / b} e o resto é {a % b}");
+        Console.WriteLine($"A divisão dos números é {a / b} e o resto é {a % b}");
+        Console.WriteLine("_______________________________________");
     }
 }
