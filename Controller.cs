@@ -3,7 +3,7 @@ namespace CSProjects;
 public class Controller
 {
 
-    public Controller() { }
+    public Controller() {}
 
     public void questions()
     {
