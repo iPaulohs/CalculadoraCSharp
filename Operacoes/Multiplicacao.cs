@@ -2,8 +2,6 @@
 
 public class Multiplicacao : OperationModel
 {
-    public Multiplicacao(){}
-
     public override void operationInt(int a, int b){
         Console.WriteLine($"A multiplicação dos números é: {a * b}");
         Console.WriteLine("_______________________________________");

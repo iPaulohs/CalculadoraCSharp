@@ -1,8 +1,6 @@
 ﻿namespace CSProjects;
 public class Soma : OperationModel
 {
-    public Soma(){}
-
     public override void operationInt(int a, int b){
         Console.WriteLine($"A soma dos números é: {a + b}");
         Console.WriteLine("_______________________________________");

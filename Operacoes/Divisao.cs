@@ -2,8 +2,6 @@
 
 public class Divisao : OperationModel
 {
-    public Divisao(){}
-
     public override void operationInt(int a, int b)
     {
         Console.WriteLine($"A divisão dos números é {a / b} e o resto é {a % b}");

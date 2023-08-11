@@ -2,8 +2,6 @@
 
 public class Subtracao : OperationModel
 {
-    public Subtracao(){}
-
     public override void operationInt(int a, int b){
         Console.WriteLine($"A subtração dos números é: {a - b}");
         Console.WriteLine("_______________________________________");
