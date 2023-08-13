@@ -26,3 +26,17 @@ C:\Users\Paulo\Documents\CalculadoraCSharp\obj\Debug\net7.0\refint\CSProjects.dl
 C:\Users\Paulo\Documents\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.pdb
 C:\Users\Paulo\Documents\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.genruntimeconfig.cache
 C:\Users\Paulo\Documents\CalculadoraCSharp\obj\Debug\net7.0\ref\CSProjects.dll
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\bin\Debug\net7.0\CSProjects.exe
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\bin\Debug\net7.0\CSProjects.deps.json
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\bin\Debug\net7.0\CSProjects.runtimeconfig.json
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\bin\Debug\net7.0\CSProjects.dll
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\bin\Debug\net7.0\CSProjects.pdb
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.AssemblyInfoInputs.cache
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.AssemblyInfo.cs
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.dll
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\refint\CSProjects.dll
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.pdb
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\CSProjects.genruntimeconfig.cache
+C:\Users\Paulo\Source\Repos\iPaulohs\CalculadoraCSharp\obj\Debug\net7.0\ref\CSProjects.dll

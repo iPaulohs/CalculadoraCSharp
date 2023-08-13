@@ -2,13 +2,15 @@
 
 public class Multiplicacao : OperationModel
 {
-    public override void operationInt(int a, int b){
+    public override void operationInt(int a, int b)
+    {
         Console.WriteLine($"A multiplicação dos números é: {a * b}");
-        Console.WriteLine("_______________________________________");
+        base.operationInt(a, b);
     }
 
-    public override void operationDouble(double a, double b){
+    public override void operationDouble(double a, double b)
+    {
         Console.WriteLine($"A multiplicação dos números é: {a * b:N2}");
-        Console.WriteLine("_______________________________________");
+        base.operationDouble(a, b);
     }
 }
